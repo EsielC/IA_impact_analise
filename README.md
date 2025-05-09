@@ -2,7 +2,7 @@
 Este projeto apresenta uma análise visual dos embarques portuários com base no dataset Port Shipment Dataset, disponibilizado no Kaggle. Através do uso de MySQL para armazenamento e do Power BI para visualização, foi possível construir um dashboard informativo que apresenta os principais insights sobre os dados de embarque.
 
 # 🔗 Fonte dos Dados
-Kaggle - Impact of AI on Digital Media (2020-2025)
+[Kaggle - Impact of AI on Digital Media (2020-2025)](https://www.kaggle.com/datasets/atharvasoundankar/impact-of-ai-on-digital-media-2020-2025)
 
 # 🧰 Tecnologias Utilizadas
 MySQL – Armazenamento dos dados
@@ -31,11 +31,11 @@ Visualizações: gráficos de linha, barras e rosca
 # 📊 Dashboard Final
 O dashboard apresenta os seguintes insights:
 
-Volume de Conteúdo por País
-Crescimento de Receita
-Utilização por Indústria
-Desemprego por País
-IA´s mais utilizadas
+- Volume de Conteúdo por País;
+- Crescimento de Receita;
+- Utilização por Indústria;
+- Desemprego por País;
+- IA´s mais utilizadas;
 
 
 
