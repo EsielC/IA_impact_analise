@@ -36,3 +36,20 @@ Crescimento de Receita
 Utilização por Indústria
 Desemprego por País
 IA´s mais utilizadas
+
+
+
+
+![analise](https://github.com/user-attachments/assets/cf7125b3-38ad-4cca-bf98-07518b64c360)
+
+
+
+
+
+
+
+
+
+
+
+
